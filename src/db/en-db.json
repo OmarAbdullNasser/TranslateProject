@@ -1,0 +1,36 @@
+{
+  "siteContent": {
+    "title": "Harry Potter",
+    "description": "Harry Potter is a series of seven fantasy novels written by British author J.K. Rowling. The series chronicles the adventures of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's struggle against Lord Voldemort, a dark wizard who intends to become immortal and conquer the wizarding world.",
+    "img": "https://play-lh.googleusercontent.com/JVMUSj4_pM3Dp-MRnNFdAPzRguUTO03c3-ypVtrsWlcqbwLoCrx2TQteno9W1moEiOOCiXkqBuWjyT3gTg",
+    "characters": {
+      "harry_potter": {
+        "name": "Harry Potter",
+        "description": "The main protagonist of the series, a young wizard who discovers his magical heritage on his eleventh birthday."
+      },
+      "hermione_granger": {
+        "name": "Hermione Granger",
+        "description": "Harry's close friend, known for her intelligence, dedication to studies, and her role in helping Harry defeat Lord Voldemort."
+      },
+      "ron_weasley": {
+        "name": "Ron Weasley",
+        "description": "Harry's loyal friend who comes from a large, loving wizarding family. He plays a crucial role in the trio's adventures."
+      },
+      "lord_voldemort": {
+        "name": "Lord Voldemort",
+        "description": "The main antagonist of the series, a dark wizard who seeks to conquer the wizarding world and defeat Harry Potter."
+      }
+    },
+
+    "settings": {
+      "hogwarts": {
+        "name": "Hogwarts School of Witchcraft and Wizardry",
+        "description": "The primary setting for much of the series, Hogwarts is a magical school where young witches and wizards learn about magic."
+      },
+      "diagon_alley": {
+        "name": "Diagon Alley",
+        "description": "A hidden street in London where witches and wizards can buy magical supplies. It is Harry's introduction to the wizarding world."
+      }
+    }
+  }
+}
